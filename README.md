@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Hathaway2010
+- Independent self-taught programmer seeking work. Python, JavaScript, C (a little), HTML, CSS, Django, React. Check out my poetry-scansion repo (demo at https://poetry-scansion.hathaway2010.repl.co)
+- 👀 I’m interested in web development and the intersection of tech and the humanities
+- 📫 How to reach me: nmoseman@post.harvard.edu
+- LinkedIn: https://linkedin/in/nora-moseman
